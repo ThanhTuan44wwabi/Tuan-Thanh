@@ -1,0 +1,6 @@
+{
+  "name": "TrailQuest",
+  "description": "Ứng dụng tìm kiếm đường mòn, điểm ngắm cảnh và leo núi thực dụng, tối giản, thân thiện cho mọi lứa tuổi và người cao tuổi.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

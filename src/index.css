@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* Accessibility font scale classes */
+.text-scale-normal {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.text-scale-large {
+  font-size: 19px;
+  line-height: 1.65;
+}
+
+.text-scale-huge {
+  font-size: 22px;
+  line-height: 1.7;
+}
+
+/* Custom leaflet pin container reset */
+.custom-place-pin {
+  background: transparent;
+  border: none;
+}
+
+.user-loc-pin {
+  background: transparent;
+  border: none;
+}
+
